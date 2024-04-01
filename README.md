@@ -1,10 +1,10 @@
 # java-junit-5-mockito-tdd-bdd
 
-## Repositorio referente as sessões 3,4,5,6,7,8 do curso Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito
+## Repositório referente as sessões 3, 4, 5, 6, 7, 8 do curso Java Unit Testing com Spring Boot 3, TDD, Junit 5 e Mockito
 ## do prof: Leandro Costa
 
 
-### Neste repositorio foi utilizado principalmente as tecnologias: Java, JUnit, Mockito e conceitos de TDD e BDD.
+### Neste repositório foi utilizado principalmente as tecnologias: Java, JUnit, Mockito, TDD e BDD.
 
 - Java;
 - Testes unitários com Junit 5;
